@@ -97,7 +97,9 @@ Weather Data
 <img width="477" height="275" alt="Screenshot 2026-01-23 155658" src="https://github.com/user-attachments/assets/122e48ec-e1ac-4a34-aa63-a27a794f3e67" />
 
 <img width="463" height="272" alt="Screenshot 2026-01-23 161256" src="https://github.com/user-attachments/assets/e337226a-0651-4280-b655-92e2af263206" />
-### Normalize -> Pre-Processing Technique:
+
+
+3) ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
